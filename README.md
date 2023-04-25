@@ -22,5 +22,5 @@ Atualmente estou cursando Análise e Desenvolvimento de Software na Uniasselvi!<
 ## Atividade
 
 <div>
-![Snake Animation](https://github.com/gabrielfonseca3/gabrielfonseca3/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/gabrielfonsecadev/gabrielfonsedev/blob/output/github-contribution-grid-snake.svg)
 </div>
