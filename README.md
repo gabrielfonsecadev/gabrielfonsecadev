@@ -1,7 +1,10 @@
-<div>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfonsecadev&layout=compact&langs_count=7&theme=react">
-</div>
- <br>
+# Gabriel Fonseca
+## Um pouco sobre mim 😁
+Olá, me chamo Gabriel e atualmente estou em uma jornada de aprendizado.
+Meu foco é em Desenvolvimento Front-End 🧑🏻‍💻
+Atualmente estou cursando Análise e Desenvolvimento de Software na Uniasselvi, porém sempre estudando por fora!
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
