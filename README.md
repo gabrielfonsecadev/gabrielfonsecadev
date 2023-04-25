@@ -3,7 +3,7 @@ Olá, me chamo Gabriel e atualmente estou em uma jornada de aprendizado.<br>
 Meu foco é em Desenvolvimento Front-End. 🧑🏻‍💻<br>
 Atualmente estou cursando Análise e Desenvolvimento de Software na Uniasselvi!<br>
 
-## Meus Conhecimentos
+## MEUS CONHECIMENTOS 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -11,7 +11,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Software na Uniasselvi!<
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-  <br>
+##
   
 <div>
   <a href = "mailto:gabrieldesouza153@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
