@@ -4,7 +4,7 @@ Meu foco é em Desenvolvimento Front-End. 🧑🏻‍💻<br>
 Atualmente estou cursando Análise e Desenvolvimento de Software na Uniasselvi!<br>
 
 ##
-<span style="font-size: 20px;">MEUS CONHECIMENTOS</span>
+<span style="font-size: 50px;">MEUS CONHECIMENTOS</span>
 <div style="display: inline_block;"><br>
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
