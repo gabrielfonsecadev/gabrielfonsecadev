@@ -1,5 +1,4 @@
 # Um pouco sobre mim 👋
-<br>
 Olá, me chamo Gabriel e atualmente estou em uma jornada de aprendizado.<br>
 Meu foco é em Desenvolvimento Front-End. 🧑🏻‍💻<br>
 Atualmente estou cursando Análise e Desenvolvimento de Software na Uniasselvi!<br> <br>
