@@ -1,4 +1,4 @@
-<div>
+<div style="margin: auto;">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfonsecadev&layout=compact&langs_count=7&theme=react">
 </div>
  <br>
