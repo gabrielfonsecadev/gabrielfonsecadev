@@ -17,10 +17,6 @@ Atualmente estou cursando Análise e Desenvolvimento de Software na Uniasselvi!<
 <div>
   <a href = "mailto:gabrieldesouza153@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-f-4a60411b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
-## Atividade
-
-<div>
 ![Snake Animation](https://github.com/gabrielfonsecadev/gabrielfonsedev/blob/output/github-contribution-grid-snake.svg)
 </div>
