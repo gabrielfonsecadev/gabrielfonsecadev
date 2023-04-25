@@ -1,5 +1,5 @@
 <div>
-  <img style="margin-left: 60px" height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfonsecadev&layout=compact&langs_count=7&theme=react">
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfonsecadev&layout=compact&langs_count=7&theme=react">
 </div>
  <br>
 <div style="display: inline_block"><br>
